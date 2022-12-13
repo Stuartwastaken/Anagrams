@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="anagrams.BottomLettersTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-12-07T02:14:17" hostname="Stuarts-MacBook-Air.local" time="0.294">
+  <properties/>
+  <testcase name="testSetLetter" classname="anagrams.BottomLettersTests" time="0.289"/>
+  <testcase name="testImport" classname="anagrams.BottomLettersTests" time="0.002"/>
+  <testcase name="testReturnedButtons" classname="anagrams.BottomLettersTests" time="0.002"/>
+  <testcase name="testConstructor" classname="anagrams.BottomLettersTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
